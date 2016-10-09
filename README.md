@@ -1,6 +1,6 @@
 # Computer-Graphics
 
-This repository contains some coursework and personal projects. Mostly written in the programming language C ++ and Free Pascal.
+This repository contains some coursework and personal projects. Mostly written in the programming language C++ and Free Pascal.
 
 IDE that used in this repository:
 - CodeBlocks 16:01 MinGW with FreeGLUT 3.0.0
