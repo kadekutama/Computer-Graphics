@@ -10,6 +10,5 @@ You are free to download and modify this repository as long as you omit my name 
 
 If you have any questions, please contact me at:<br>
 kadekdwibudiutama@gmail.com<br>
-<a href="https://fb.com/kadek.cielers">Facebook</a><br>
 
-Copyright 2016
+2016
